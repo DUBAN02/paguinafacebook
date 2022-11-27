@@ -1,0 +1,71 @@
+@media only screen and (max-width: 920px) {
+    .container{
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-family: inherit;
+        width: auto;
+        padding: 10px;
+         
+    }   
+ 
+}
+
+.container1{
+    box-sizing: border-box;
+    margin-right: 0;
+    padding-right: 32px;
+    width: 1010px;
+
+}
+
+section class{
+    top: 50px;
+}
+
+.pepe{
+    height: 100vh;
+}
+
+.parrafo img{
+    margin: -15px;
+}
+
+.parrafo h2{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+}
+
+.bottonIC{
+    background-color: #166FE5;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 16px;
+}
+
+.bottonverde{
+    background-color: #36A420;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 16px;
+}
+
+.idiomas{
+    gap: 15px;
+    
+}
+
+.extenciones{
+    gap: 15px;
+}
